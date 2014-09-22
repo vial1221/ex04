@@ -1,4 +1,0 @@
-name: ex04
-description: A sample web application
-dependencies:
-  browser: any
