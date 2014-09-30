@@ -1,0 +1,22 @@
+ex04
+
+19/20
+vous n'êtes pas dans la liste officielle des étudiants pour ce cours?!
+
+supprimer ex04/web
+google: how to remove a directory in git?
+
+utiliser le formatage correct 
+voir Dart Style Guide
+
+1.
+fibn_1 --> fibn1
+
+2.
+-1 calcul_line_coordinates --> calculLineCoordinates
+
+3.
+date_difference --> dateDifference
+
+4.
+calculinterest --> calculInterest
