@@ -1,7 +1,6 @@
 ex04
 
 19/20
-vous n'êtes pas dans la liste officielle des étudiants pour ce cours?!
 
 supprimer ex04/web
 google: how to remove a directory in git?
